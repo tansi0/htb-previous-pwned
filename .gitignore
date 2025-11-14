@@ -1,0 +1,5 @@
+# Don't push any flag values
+*.flag
+flags.txt
+# Screenshots folder — add your own
+screenshots/
